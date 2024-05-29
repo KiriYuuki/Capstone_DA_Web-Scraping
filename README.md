@@ -42,7 +42,7 @@ Or you can install the packages using `requirements.txt` by running the followin
 pip install -r requirements. txt
 ```
 
-### Implementing my webscrapping to the flask dashboard
+### Implementing my web scrapping to the flask dashboard
 
 - Copy paste all of your web scrapping process to the desired position on the `app.py`
 - Change the title of the dashboard in `index.html`
