@@ -1,7 +1,10 @@
 # Capstone_DA_Web-Scraping
 Capstone Project Data Analytic Algoritma: Web Scraping
 This project was developed as one of the capstone projects of the Algorithm Academy in the _Data Analytics_ specialty. The expected deliverables from this project are doing simple web scraping to get information. I will also use a simple Flask dashboard to display _scrap_ results and visualizations.
-# Case Study: US Dollar to Rupiah exchange rate (https://www.exchange-rates.org/exchange-rate-history/usd-idr)
+
+# Case Study: US Dollar to Rupiah exchange rate
+(https://www.exchange-rates.org/exchange-rate-history/usd-idr)
+
 ## Background
 The exchange rate between the US Dollar (USD) and the Indonesian Rupiah (IDR) is a critical economic indicator that affects various sectors of Indonesia's economy, including import-export trade, foreign investment inflows, and the overall economic stability of the country. Fluctuations in this exchange rate can significantly impact businesses and investors who engage in international transactions.
 
